@@ -29,4 +29,4 @@ Average trip duration was highest among users aged 45 to 54 years old, followed 
 
 ## Submission Link 
 
-The primary visualization can be viewed [here] (https://public.tableau.com/app/profile/raheem.paxton/viz/BikeHW_16352065379080/Story6).
+The primary visualization can be viewed [here](https://public.tableau.com/app/profile/raheem.paxton/viz/BikeHW_16352065379080/Story6).
