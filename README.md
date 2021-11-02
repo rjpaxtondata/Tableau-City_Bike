@@ -4,6 +4,12 @@
 
 The purpose of this assignment was to design 2 to 5 visualizations that characterize the New York Citi Bike data. The visualization should include static and dynamic maps
 
+## Resources
+
+### Data sources: [New York City Citi Bike Data](https://ride.citibikenyc.com/system-data)
+
+### Tools: Tableau, Python, Excel
+
 ## Results  
 
 This images depicts the hours of use by age group. Peak hours for all age groups are around 8am in the morning and between 5 to 7 pm in the afternoon
@@ -29,4 +35,4 @@ Average trip duration was highest among users aged 45 to 54 years old, followed 
 
 ## Submission Link 
 
-The primary visualization can be viewed [here](https://public.tableau.com/app/profile/raheem.paxton/viz/BikeHW_16352065379080/Story6).
+The view a story board of targeted visualizations, click [here](https://public.tableau.com/app/profile/raheem.paxton/viz/BikeHW_16352065379080/Story6).
