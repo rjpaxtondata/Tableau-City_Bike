@@ -6,9 +6,9 @@ The purpose of this assignment was to design 2 to 5 visualizations that characte
 
 ## Resources
 
-### Data sources: [New York City Citi Bike Data](https://ride.citibikenyc.com/system-data)
+* Data sources: [New York City Citi Bike Data](https://ride.citibikenyc.com/system-data)
 
-### Tools: Tableau, Python, Excel
+* Tools: Tableau, Python, Excel
 
 ## Results  
 
